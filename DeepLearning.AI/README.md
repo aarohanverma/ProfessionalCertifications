@@ -1,4 +1,4 @@
-# Verification Link:
+# Verification Links:
 
 ## https://coursera.org/share/a3cfdc9fc8a51a76a4c616cbdbee0dcd
 
