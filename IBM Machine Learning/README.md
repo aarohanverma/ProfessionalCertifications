@@ -1,7 +1,6 @@
-# Verification Link:
+# Verification Links:
 
-https://coursera.org/share/f637c0c7e6a9db18fe34b9d55bdbd60a
-
+## https://coursera.org/share/f637c0c7e6a9db18fe34b9d55bdbd60a
 
 https://coursera.org/share/130909f658f872c88cecb94da0bac2c1
 
